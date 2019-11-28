@@ -1,0 +1,16 @@
+C:\Users\JQuinoO\source\repos\BlogEngine.Core\bin\Debug\netcoreapp3.0\BlogEngine.Core.deps.json
+C:\Users\JQuinoO\source\repos\BlogEngine.Core\bin\Debug\netcoreapp3.0\BlogEngine.Core.dll
+C:\Users\JQuinoO\source\repos\BlogEngine.Core\bin\Debug\netcoreapp3.0\BlogEngine.Core.pdb
+C:\Users\JQuinoO\source\repos\BlogEngine.Core\obj\Debug\netcoreapp3.0\BlogEngine.Core.AssemblyInfoInputs.cache
+C:\Users\JQuinoO\source\repos\BlogEngine.Core\obj\Debug\netcoreapp3.0\BlogEngine.Core.AssemblyInfo.cs
+C:\Users\JQuinoO\source\repos\BlogEngine.Core\obj\Debug\netcoreapp3.0\BlogEngine.Core.dll
+C:\Users\JQuinoO\source\repos\BlogEngine.Core\obj\Debug\netcoreapp3.0\BlogEngine.Core.pdb
+C:\Users\JQuinoO\source\repos\BlogEngine.Core\obj\Debug\netcoreapp3.0\BlogEngine.Core.csprojAssemblyReference.cache
+C:\Users\JQuinoO\source\repos\BlogEngine2\BlogEngine.Core\bin\Debug\netcoreapp3.0\BlogEngine.Core.deps.json
+C:\Users\JQuinoO\source\repos\BlogEngine2\BlogEngine.Core\bin\Debug\netcoreapp3.0\BlogEngine.Core.dll
+C:\Users\JQuinoO\source\repos\BlogEngine2\BlogEngine.Core\bin\Debug\netcoreapp3.0\BlogEngine.Core.pdb
+C:\Users\JQuinoO\source\repos\BlogEngine2\BlogEngine.Core\obj\Debug\netcoreapp3.0\BlogEngine.Core.csprojAssemblyReference.cache
+C:\Users\JQuinoO\source\repos\BlogEngine2\BlogEngine.Core\obj\Debug\netcoreapp3.0\BlogEngine.Core.AssemblyInfoInputs.cache
+C:\Users\JQuinoO\source\repos\BlogEngine2\BlogEngine.Core\obj\Debug\netcoreapp3.0\BlogEngine.Core.AssemblyInfo.cs
+C:\Users\JQuinoO\source\repos\BlogEngine2\BlogEngine.Core\obj\Debug\netcoreapp3.0\BlogEngine.Core.dll
+C:\Users\JQuinoO\source\repos\BlogEngine2\BlogEngine.Core\obj\Debug\netcoreapp3.0\BlogEngine.Core.pdb
